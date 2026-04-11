@@ -1,0 +1,1 @@
+allow kcmdlinectrl sysfs_dt_firmware_android:file rw_file_perms;
